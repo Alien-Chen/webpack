@@ -1,0 +1,12 @@
+body {
+    background: skyblue;
+    background-image: url(../image/a.jpg);
+}
+#root {
+    color:yellowgreen;
+    transform: rotate(45deg);
+}
+
+.test {
+    color:khaki;
+}
